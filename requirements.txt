@@ -1,3 +1,5 @@
 flask
 werkzeug
 moviepy
+imageio[ffmpeg]
+gunicorn
